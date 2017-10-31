@@ -1,5 +1,5 @@
-<ul>
-<li>* lasagna</li>
-<li>* cheesecake</li>
-<li>* spring rolls</li>
-</ul>
+
+1. lasagna
+2. cheesecake
+3. tacos
+4. spring rolls
